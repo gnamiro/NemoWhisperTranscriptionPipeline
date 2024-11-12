@@ -16,3 +16,7 @@ OpenAI's [Whisper](https://github.com/openai/whisper) model is used to transcrib
 The transcribed lines are split and recombined to produce split and merged transcription files for each case study video.
 
 A much more detailed description of the pipeline can be found in the notebooks found in the repo.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
