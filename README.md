@@ -1,7 +1,7 @@
-# NemoWhisperTranscriptionPipeline
+# Diarization and Transcription using NeMo and Whisper
 This repo lists the code use to transcribe conversations from case study videos.
 
-The transcription is performed by executing the following steps in a python pipeline:
+The transcription is performed by executing the following steps in a Python pipeline:
 
 ## Step 1:
 FFmpeg is used to extract the audio out of the case study videos.
