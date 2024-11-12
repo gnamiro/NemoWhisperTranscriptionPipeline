@@ -7,10 +7,10 @@ The transcription is performed by executing the following steps in a python pipe
 FFmpeg is used to extract the audio out of the case study videos.
 
 ## Step 2:
-Nvidia's NeMo diarization model is used to diarize the audio, which idenifies individual speakers and the audio sections where they are speaking.
+Nvidia's [NeMo](https://github.com/NVIDIA/NeMo) diarization model is used to diarize the audio, which idenifies individual speakers and the audio sections where they are speaking.
 
 ## Step 3:
-OpenAI's Whisper model is used to transcribe the speaker sections into text.
+OpenAI's [Whisper](https://github.com/openai/whisper) model is used to transcribe the speaker sections into text.
 
 ## Step 4:
 The transcribed lines are split and recombined to produce split and merged transcription files for each case study video.
