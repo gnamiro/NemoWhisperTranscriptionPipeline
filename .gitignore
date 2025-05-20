@@ -1,0 +1,8 @@
+.ipynb_checkpoints/*
+.env/*
+data/
+Data/
+*.wav
+Test/
+model_data/
+oracle_vad/
