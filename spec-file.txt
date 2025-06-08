@@ -1,0 +1,42 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+# created-by: conda 25.3.1
+@EXPLICIT
+https://repo.anaconda.com/pkgs/main/linux-64/_libgcc_mutex-0.1-main.conda
+https://conda.anaconda.org/conda-forge/noarch/ca-certificates-2025.4.26-hbd8a1cb_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/ld_impl_linux-64-2.40-h12ee557_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/libstdcxx-ng-11.2.0-h1234567_1.conda
+https://repo.anaconda.com/pkgs/main/noarch/tzdata-2025b-h04d1e81_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/libgomp-11.2.0-h1234567_1.conda
+https://repo.anaconda.com/pkgs/main/linux-64/_openmp_mutex-5.1-1_gnu.conda
+https://repo.anaconda.com/pkgs/main/linux-64/libgcc-ng-11.2.0-h1234567_1.conda
+https://repo.anaconda.com/pkgs/main/linux-64/bzip2-1.0.8-h5eee18b_6.conda
+https://conda.anaconda.org/conda-forge/linux-64/gmp-6.2.1-h58526e2_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/lame-3.100-h7f98852_1001.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/libffi-3.4.4-h6a678d5_1.conda
+https://repo.anaconda.com/pkgs/main/linux-64/libuuid-1.41.5-h5eee18b_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/ncurses-6.4-h6a678d5_0.conda
+https://conda.anaconda.org/conda-forge/linux-64/nettle-3.6-he412f7d_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/openssl-3.0.16-h5eee18b_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/pthread-stubs-0.3-h0ce48e5_1.conda
+https://conda.anaconda.org/conda-forge/linux-64/x264-1!161.3030-h7f98852_1.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/xorg-libxau-1.0.12-h9b100fa_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/xorg-libxdmcp-1.1.5-h9b100fa_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/xorg-xorgproto-2024.1-h5eee18b_1.conda
+https://repo.anaconda.com/pkgs/main/linux-64/xz-5.6.4-h5eee18b_1.conda
+https://repo.anaconda.com/pkgs/main/linux-64/zlib-1.2.13-h5eee18b_1.conda
+https://conda.anaconda.org/conda-forge/linux-64/gnutls-3.6.13-h85f3911_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libpng-1.6.37-h21135ba_2.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/libxcb-1.17.0-h9b100fa_0.conda
+https://conda.anaconda.org/conda-forge/linux-64/openh264-2.1.1-h780b84a_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/readline-8.2-h5eee18b_0.conda
+https://conda.anaconda.org/conda-forge/linux-64/freetype-2.10.4-h0708190_1.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/sqlite-3.45.3-h5eee18b_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/xorg-libx11-1.8.12-h9b100fa_1.conda
+https://conda.anaconda.org/conda-forge/linux-64/ffmpeg-4.3.2-hca11adc_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/tk-8.6.14-h993c535_1.conda
+https://repo.anaconda.com/pkgs/main/linux-64/python-3.10.12-h955ad1f_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/setuptools-78.1.1-py310h06a4308_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/wheel-0.45.1-py310h06a4308_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/pip-25.1-pyhc872135_2.conda
